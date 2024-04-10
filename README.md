@@ -1,5 +1,5 @@
 # Wildfires_MentalHealth
-This repository contains the materials related to the article _"Wildfires and Social Media Discourse: Exploring Mental Health and Emotional Well-Being Through Twitter"_.
+This repository contains the materials related to the article [Wildfires and Social Media Discourse: Exploring Mental Health and Emotional Well-Being Through Twitter](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1349609).
 
 
 ## Requirements
@@ -34,7 +34,7 @@ The Twitter Tubbs Fire dataset is available for download through the [IEEEDataPo
 
 ## References
 
-For more information, please read XXX:
+For more information, please read [Wildfires and Social Media Discourse: Exploring Mental Health and Emotional Well-Being Through Twitter](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1349609):
 
 If you use this data, please cite:
 ```
